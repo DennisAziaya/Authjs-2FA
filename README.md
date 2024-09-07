@@ -1,6 +1,4 @@
-Here’s the description in Markdown format:
 
-```markdown
 # Authentication App
 
 This project is an advanced authentication system built with modern technologies including **NextAuth.js/Auth.js**, **Next.js**, **Drizzle**, and **PostgreSQL**. It offers secure and scalable authentication features with a focus on user experience and security.
